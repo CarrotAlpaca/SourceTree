@@ -74,6 +74,9 @@ public class MainActivity extends AppCompatActivity {
         } catch(Exception e) {
             e.printStackTrace();
         }
+        //HOHOHO
+        //New branch Minseon
+        //New branch HEHEHE
 
 
     }
