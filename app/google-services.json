@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203107109833",
+    "firebase_url": "https://moveitmovie.firebaseio.com",
+    "project_id": "moveitmovie",
+    "storage_bucket": "moveitmovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203107109833:android:1f121fa636ceec52",
+        "android_client_info": {
+          "package_name": "com.example.kwon.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203107109833-ku2jaapqhtjboq8oj4ji2ur86oes8cmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kwon.movie",
+            "certificate_hash": "4c5fa102a6c5c4a753536576425381165037ba7e"
+          }
+        },
+        {
+          "client_id": "203107109833-v6fvdeutps6bhm7b8l0d19f4j5njgc2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgB3tqVnleVxGPdfW0RLnu1I-cqXf0j6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203107109833-v6fvdeutps6bhm7b8l0d19f4j5njgc2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
