@@ -78,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
         //New branch Minseon
         //New branch HEHEHE
         //다시 master branch
+        //I'm master
 
     }
 
